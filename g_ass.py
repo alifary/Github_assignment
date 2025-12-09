@@ -9,4 +9,5 @@ for i in range(0,10000):
     j=i+1
     if j%2==0:
         print(j)
-print("range is exceded ")
+print("range is exceded ");
+
